@@ -1,16 +1,34 @@
-## Hi there 👋
+## Gabrielly Rodrigues  
+Estudante de Sistemas de Informação
 
-<!--
-**Gabriellyrodrigues-dev/Gabriellyrodrigues-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Sistemas de Informação, com interesse em tecnologia,
+desenvolvimento de software e soluções digitais, em processo contínuo
+de aprendizado e aperfeiçoamento técnico.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Competências técnicas
+- Programação em Python  
+- Controle de versão com Git e GitHub  
+- Lógica de Programação  
+- Fundamentos de desenvolvimento de software  
+
+---
+
+### Perfil profissional
+Possuo foco em organização, aprendizado contínuo e aplicação prática
+de conceitos técnicos em projetos acadêmicos e pessoais, buscando
+constante evolução técnica e profissional.
+
+---
+
+### Objetivo
+Desenvolver competências técnicas e analíticas por meio de estudos,
+projetos e experiências que contribuam para uma formação sólida
+na área de tecnologia.
+
+---
+
+### Contato profissional
+- LinkedIn: https://www.linkedin.com/in/maria-gabrielly-rodrigues  
+- GitHub: @Gabriellyrodrigues-dev
