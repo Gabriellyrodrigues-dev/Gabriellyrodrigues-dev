@@ -1,9 +1,7 @@
 ## Gabrielly Rodrigues  
 Estudante de Sistemas de Informação
 
-Estudante de Sistemas de Informação, com interesse em tecnologia,
-desenvolvimento de software e soluções digitais, em processo contínuo
-de aprendizado e aperfeiçoamento técnico.
+Estudante de Sistemas de Informação com foco em desenvolvimento de software, especialmente em Python, aplicando lógica de programação e boas práticas em projetos acadêmicos e pessoais.
 
 ---
 
